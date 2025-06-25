@@ -3,14 +3,10 @@ title: SPR战队
 subtitle: 
 description: 人生的第一个转折点，梦想的第一个启航点
 header: images/background.jpg
-header-video:
-  src: images/header.mp4
-  poster: images/header.jpg
-  autoplay: true
-  loop: true
-  muted: true
+header-video: images/header.mp4   
+# site author
 footer: images/footer.jpg
-proofer: false
+proofer: true
 slogan: 京中铁狮，所向披靡
 # site social media and other links
 links:
