@@ -3,7 +3,11 @@ title: SPR战队
 subtitle: 
 description: 人生的第一个转折点，梦想的第一个启航点
 header: images/background.jpg
-header-video: images/header.mp4   
+header-video:
+  src: images/header.mp4
+  loop: true
+  autoplay: true
+  muted: true
 # site author
 footer: images/footer.jpg
 proofer: true
