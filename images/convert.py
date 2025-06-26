@@ -3,7 +3,7 @@ import cv2
 import os
 
 
-image = cv2.imread('images/logo.png', cv2.IMREAD_UNCHANGED)
+image = cv2.imread('images/logo_black .png', cv2.IMREAD_UNCHANGED)
 
 for i in range(image.shape[0]):
     for j in range(image.shape[1]):
